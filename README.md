@@ -17,7 +17,7 @@ Fig. 8 is a reference figure for the feedforward network showing the time evolut
 To generate figure, run Fig_8.m
 
 Fig. 9 shows the behavior of y4 as λ varies in the chain network. 
-The top panels show the value of y4 at equilibrium and the amplitudes of limit cycles. Middle panels show the average of y4. Bottom panels show the derivativeof y4 with respect to λ, calculated either analytically or directly.
+The top panels show the value of y4 at equilibrium and the amplitudes of limit cycles. Middle panels show the average of y4. Bottom panels show the derivative of y4 with respect to λ, calculated either analytically or directly.
 The date of this figure was precomputed via MatCont and MATLAB, with FF_model.m as the simulation code.
 See the way of calculating the result in middle panels in line 112-117 of Fig_8.m.
 See the way of calculating the result in bottom panels in line 119-129 of Fig_8.m.
