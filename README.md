@@ -19,6 +19,6 @@ To generate figure, run Fig_8.m
 Fig. 9 shows the behavior of y4 as λ varies in the chain network. 
 The top panels show the value of y4 at equilibrium and the amplitudes of limit cycles. Middle panels show the average of y4. Bottom panels show the derivative of y4 with respect to λ, calculated either analytically or directly.
 The data of this figure was precomputed via MatCont and MATLAB, with FF_model.m as the simulation code.
-Please refer to line 112-117 of Fig_8.m for the way of calculating the results in middle panels and refer to line 119-129 of Fig_8.m for the way of calculating the results in bottom panels.
+Please refer to line 122-127 of Fig_8.m for the way of calculating the results in middle panels and refer to line 129-139 of Fig_8.m for the way of calculating the results in bottom panels.
 To produce the plot of case 1 from precomputed data (FF_case1.mat), run Fig_9_case1.m.
 To produce the plot of case 2 from precomputed data (FF_case2.mat), run Fig_9_case2.m
